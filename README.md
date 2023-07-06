@@ -1,9 +1,9 @@
 # A-Smart-Parking-Lot
 Implemented using Object Oriented Programming in C++
 Set of requirements while designing the parking lot:
-    The parking lot should have multiple floors where customers can park their cars.
-    The parking lot should have multiple entry and exit points.
-    Customers can collect a parking ticket from the entry points and can pay the parking fee at the exit points on their way out.
+The parking lot should have multiple floors where customers can park their cars.
+The parking lot should have multiple entry and exit points.
+Customers can collect a parking ticket from the entry points and can pay the parking fee at the exit points on their way out.
     Customers can pay the tickets at the automated exit panel or to the parking attendant.
     Customers can pay via both cash and credit cards.
     Customers should also be able to pay the parking fee at the customer’s info portal on each floor. If the customer has paid at the info portal, they don’t have to pay at the exit.
