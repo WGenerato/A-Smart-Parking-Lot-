@@ -3,7 +3,7 @@
 
 int main() {
     // Create a parking lot
-    ParkingLot parkingLot("My Parking Lot", "123 Main Street");
+    ParkingLot parkingLot("A New Parking Lot", "321 Yonge Street");
 
     // Create parking floors
     ParkingFloor f1("first floor", 6);
@@ -47,7 +47,7 @@ int main() {
     int period = 0;
     ExitPanel exitPanel;
     ticket.calPrice(period);
-    int paid_amount = ticket.getPrice();
+    double paid_amount = ticket.getPrice();
     attendantPortal.processPayment(exitPanel, ticket, payment, paid_amount);
     
     // Simulate the information of a customer who has paid for their ticket at the customer info portal
