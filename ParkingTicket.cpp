@@ -2,7 +2,7 @@
 
 #include <iostream>
 ParkingTicket::ParkingTicket(int number)
-    : ticketNumber(number), paid(false), amount(3) {} // Hourly rate is $3 for each ticket
+    : ticketNumber(number), paid(false), amount(2.5) {} // Hourly rate is $2.5 for each ticket whose parking time is more than 3 hours
 
 int ParkingTicket::getTicketNumber() const {
     return ticketNumber;
@@ -14,8 +14,15 @@ void ParkingTicket::calPrice(int duration) {
     while (true){
     std::cout << "Please specify how long your vehicle will be parked in hour(s)" << std::endl;
     std::cin >> duration;
-    if (duration >=1 && duration<=24) {
-
+    if (duration == 1) {
+        amount = 4.0;
+        break;
+    } else
+        if (duration == 2 || duration == 3) {
+            amount = 3.5;
+            break;
+    } else
+    if (duration >=4 && duration<=24) {
         amount *= duration;
         break;
     }
@@ -24,7 +31,7 @@ void ParkingTicket::calPrice(int duration) {
     }
 }
 
-int ParkingTicket::getPrice() {
+double ParkingTicket::getPrice() {
     return amount;
 }
 
