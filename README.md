@@ -35,4 +35,4 @@ When "Initiate Exit" is clicked, the price for the ticket according the hours en
 
 <img width="1030" alt="Screenshot 2023-09-23 183509" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/3230d7ac-71e3-4a82-85c4-e14a35c20c70">
 If the customer chose to charge their EV, the charging fee will also be presented to them at the end. <br />
----
+
