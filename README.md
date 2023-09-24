@@ -5,7 +5,7 @@ Implemented using Object Oriented Programming in C++ <br />
 The main window after running the application. <br />
 ---
 <img width="1027" alt="Screenshot 2023-09-23 183103" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/edb7be87-f901-4915-a932-a277d3c50cf9">
-When "Initiate Entrance" is clicked, a window with number dial will appear and prompt the user to enter the time their vehicle will be parked. <br />
+When "Initiate Entrance" is clicked, a window with a number dial will appear and prompt the user to enter the time their vehicle will be parked. <br />
 ---
 <img width="1024" alt="Screenshot 2023-09-23 183147" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/e4835e40-7b90-4600-adf1-092c6e57f7eb">
 The dial changes the value each time by 1. The chosen time interval here is 5 hours. <br />
@@ -27,7 +27,8 @@ When "Initiate Exit" is clicked, the price for the ticket according the hours en
 ---
 
 <img width="1025" alt="Screenshot 2023-09-23 183414" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/f497510f-b4ef-4554-a250-941eac2a3288">
-
+Similar to parking time, charging time can also be manually entered by user or by using a dial. Unlike the charging time, this dial changes its value by 0.5, which <br />
+is equals to half an hour for each spin. <br />
 ---
 <img width="1034" alt="Screenshot 2023-09-23 183437" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/06b64600-eb4e-43aa-a14e-3de8e6519f22">
 
