@@ -13,8 +13,14 @@ The dial changes the value each time by 1. The chosen time interval here is 5 ho
 <img width="1033" alt="Screenshot 2023-09-23 183350" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/659ba71c-26ed-4392-b5fa-764e891f86ec">
 The customer will then be asked wether they want to charge their EV or not. <br />
 ---
+<img width="1025" alt="Screenshot 2023-09-23 183414" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/f497510f-b4ef-4554-a250-941eac2a3288">
+If "Yes" is chosen, a new window will appear. Similar to parking time, charging time can also be manually entered by user or by using a dial. Unlike the charging time, this dial changes its value by 0.5, which is equals to half an hour for each spin. <br />
+---
+<img width="1034" alt="Screenshot 2023-09-23 183437" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/06b64600-eb4e-43aa-a14e-3de8e6519f22">
+The chosen charging time for this example is 4 hours and a half. <br />
+---
 <img width="1027" alt="Screenshot 2023-09-23 183203" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/2fb7c9e3-8549-4474-a8c5-054ebbddd818">
-After confirming the time, a ticket with a unique number will be issued. <br />
+After confirming the times, a ticket with a unique number will be issued. <br />
 ---
 <img width="1028" alt="Screenshot 2023-09-23 183234" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/678b69a8-8ca2-411a-ab13-05be07c8770d">
 A list of avalaible parking spots of multiple types will be displayed. <br />
@@ -26,12 +32,7 @@ The list continues.  <br />
 When "Initiate Exit" is clicked, the price for the ticket according the hours entered will be computed and returned to the customers. <br />
 ---
 
-<img width="1025" alt="Screenshot 2023-09-23 183414" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/f497510f-b4ef-4554-a250-941eac2a3288">
-Similar to parking time, charging time can also be manually entered by user or by using a dial. Unlike the charging time, this dial changes its value by 0.5, which is equals to half an hour for each spin. <br />
----
-<img width="1034" alt="Screenshot 2023-09-23 183437" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/06b64600-eb4e-43aa-a14e-3de8e6519f22">
-The chosen charging time for this example is 4 hours and a half. <br />
----
+
 <img width="1030" alt="Screenshot 2023-09-23 183509" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/3230d7ac-71e3-4a82-85c4-e14a35c20c70">
-Finally <br />
+If the customer chose to charge their EV, the charging fee will also be presented to them at the end. <br />
 ---
