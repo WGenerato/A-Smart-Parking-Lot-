@@ -7,9 +7,11 @@ The main window after running the application. <br>
 When "Initiate Entrance" is clicked, a window with number dial will appear and prompt the user to enter the time their vehicle will be parked. <br>
 
 <img width="1024" alt="Screenshot 2023-09-23 183147" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/e4835e40-7b90-4600-adf1-092c6e57f7eb">
-The dial changes the value each time by 1. I chose the the time parked as 5 hours. 
+The dial changes the value each time by 1. I chose the the time parked as 5 hours. <br>
 
 <img width="1027" alt="Screenshot 2023-09-23 183203" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/2fb7c9e3-8549-4474-a8c5-054ebbddd818">
+After confirming the time, a ticket with a unique number will be issued. <br>
+
 <img width="1028" alt="Screenshot 2023-09-23 183234" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/678b69a8-8ca2-411a-ab13-05be07c8770d">
 <img width="1027" alt="Screenshot 2023-09-23 183253" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/a6fb26f8-39f0-4205-9305-af640e0ef525">
 <img width="1028" alt="Screenshot 2023-09-23 183327" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/5227f73e-8e4a-4e16-ad72-0fff684e8268">
