@@ -10,6 +10,9 @@ When "Initiate Entrance" is clicked, a window with number dial will appear and p
 <img width="1024" alt="Screenshot 2023-09-23 183147" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/e4835e40-7b90-4600-adf1-092c6e57f7eb">
 The dial changes the value each time by 1. The chosen time interval here is 5 hours. <br />
 ---
+<img width="1033" alt="Screenshot 2023-09-23 183350" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/659ba71c-26ed-4392-b5fa-764e891f86ec">
+The customer will then be asked wether they want to charge their EV or not. <br />
+---
 <img width="1027" alt="Screenshot 2023-09-23 183203" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/2fb7c9e3-8549-4474-a8c5-054ebbddd818">
 After confirming the time, a ticket with a unique number will be issued. <br />
 ---
@@ -22,9 +25,7 @@ The list continues.  <br />
 <img width="1028" alt="Screenshot 2023-09-23 183327" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/5227f73e-8e4a-4e16-ad72-0fff684e8268">
 When "Initiate Exit" is clicked, the price for the ticket according the hours entered will be computed and returned to the customers. <br />
 ---
-<img width="1033" alt="Screenshot 2023-09-23 183350" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/659ba71c-26ed-4392-b5fa-764e891f86ec">
-Since EV charging . <br />
----
+
 <img width="1025" alt="Screenshot 2023-09-23 183414" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/f497510f-b4ef-4554-a250-941eac2a3288">
 
 ---
