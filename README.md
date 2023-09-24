@@ -14,7 +14,11 @@ The dial changes the value each time by 1. The chosen time interval here is 5 ho
 After confirming the time, a ticket with a unique number will be issued. <br />
 ---
 <img width="1028" alt="Screenshot 2023-09-23 183234" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/678b69a8-8ca2-411a-ab13-05be07c8770d">
+A list of avalaible parking spots of multiple types will be displayed. <br />
+---
 <img width="1027" alt="Screenshot 2023-09-23 183253" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/a6fb26f8-39f0-4205-9305-af640e0ef525">
+The list continues.  <br />
+---
 <img width="1028" alt="Screenshot 2023-09-23 183327" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/5227f73e-8e4a-4e16-ad72-0fff684e8268">
 <img width="1033" alt="Screenshot 2023-09-23 183350" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/659ba71c-26ed-4392-b5fa-764e891f86ec">
 <img width="1025" alt="Screenshot 2023-09-23 183414" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/f497510f-b4ef-4554-a250-941eac2a3288">
