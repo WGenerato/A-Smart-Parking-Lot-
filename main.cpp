@@ -88,6 +88,7 @@ int main(int argc, char *argv[])
         // Simulate a parking attendant scanning the ticket
 
         attendantPortal.scanTicket(ticket);
+        chargingFee.askforCharging();
         QMessageBox::information(&window, "Entrance Simulation", message);
 
         // Display the initial parking spot availability
