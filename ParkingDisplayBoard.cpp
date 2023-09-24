@@ -1,7 +1,15 @@
 #include "ParkingDisplayBoard.h"
 #include <iostream>
+<<<<<<< HEAD
 void ParkingDisplayBoard::showParkingSpots(const std::vector<ParkingSpot>& spots) const {
     std::cout << "Parking Spots Availability:" << std::endl;
+=======
+#include <QString>
+#include <QMessageBox>
+void ParkingDisplayBoard::showParkingSpots(const std::vector<ParkingSpot>& spots) const {
+    std::cout << "Parking Spots Availability:" << std::endl;
+    QString parkingInfo ;
+>>>>>>> a8d5687e964e2a87b004b8d2551ba3b615706438
     for (const auto& spot : spots) {
         std::string spotType;
         switch (spot.getType()) {
@@ -41,13 +49,28 @@ void ParkingDisplayBoard::showParkingSpots(const std::vector<ParkingSpot>& spots
             break;
         }
 
+<<<<<<< HEAD
         std::cout << "Spot #" << spot.getSpotNumber() << ": Type: " << spotType << ", Vehicle Type: " << vehicleType;
+=======
+        std::cout << " Spot #" << spot.getSpotNumber() << ": Type: " << spotType << ", Vehicle Type: " << vehicleType;
+>>>>>>> a8d5687e964e2a87b004b8d2551ba3b615706438
         if (spot.isOccupied()) {
             std::cout << " (Occupied)";
         }
         else {
             std::cout << " (Available)";
         }
+<<<<<<< HEAD
         std::cout << std::endl;
     }
+=======
+
+        parkingInfo+= QString("\nSpot numbered %1 of type %2 is available.")
+                                  .arg(QString::number(spot.getSpotNumber()))
+                                  .arg(QString::fromStdString(spotType));
+
+    }
+ QMessageBox::information(nullptr,"Parking Lot Status:", parkingInfo);
+
+>>>>>>> a8d5687e964e2a87b004b8d2551ba3b615706438
 }
