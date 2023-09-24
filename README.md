@@ -23,6 +23,14 @@ The list continues.  <br />
 When "Initiate Exit" is clicked, the price for the ticket according the hours entered will be computed and returned to the customers. <br />
 ---
 <img width="1033" alt="Screenshot 2023-09-23 183350" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/659ba71c-26ed-4392-b5fa-764e891f86ec">
+Since EV charging . <br />
+---
 <img width="1025" alt="Screenshot 2023-09-23 183414" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/f497510f-b4ef-4554-a250-941eac2a3288">
+
+---
 <img width="1034" alt="Screenshot 2023-09-23 183437" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/06b64600-eb4e-43aa-a14e-3de8e6519f22">
+
+---
 <img width="1030" alt="Screenshot 2023-09-23 183509" src="https://github.com/WGenerato/A-Smart-Parking-Lot-/assets/105020983/3230d7ac-71e3-4a82-85c4-e14a35c20c70">
+
+---
