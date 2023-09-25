@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
  	
 <p># A-Smart-Parking-Lot
  <br>Implemented using Object Oriented Programming in C++
